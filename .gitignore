@@ -2,7 +2,6 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-Icon
 
 # Thumbnails
 ._*
@@ -29,3 +28,5 @@ node_modules/
 
 # production folder
 production/
+
+todo.md
